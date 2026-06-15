@@ -19,6 +19,8 @@ The exercise solutions are located in the script.js files of each folder.
 - [snack-7](snack-7/script.js)
 - [snack-8](snack-8/script.js)
 
+# How to run 
 
+Navigate through the folders, open index.html and check the results in the DevTools console.
 
 
