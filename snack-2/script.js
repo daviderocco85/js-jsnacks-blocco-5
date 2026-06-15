@@ -4,6 +4,8 @@ const people = [
   { name: 'Marco', age: 67 }
 ];
 
-people.forEach((element)=> console.log(`nomi: ${element.name}`));
+
 // Stampa in console tutti i nomi
+people.forEach((element)=> console.log(`nomi: ${element.name}`));
+
 // Risultato: 'Paolo', 'Giulia', 'Marco'
